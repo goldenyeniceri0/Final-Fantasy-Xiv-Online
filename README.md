@@ -240,4 +240,4 @@ Final Fantasy XIV Online is available as a full free version, including all feat
 Download Final Fantasy XIV Online today and embark on your epic journey across Eorzea! Experience the magic, adventure, and wonder that only the Final Fantasy saga can offer.
 
 ---
-**Last updated:** 2026-10-29 22:20:16 UTC
+**Last updated:** 2026-10-30 02:20:44 UTC
